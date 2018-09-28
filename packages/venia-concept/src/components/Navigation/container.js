@@ -1,4 +1,3 @@
-import { createElement } from 'react';
 import { connect } from 'react-redux';
 
 import { closeDrawer } from 'src/actions/app';

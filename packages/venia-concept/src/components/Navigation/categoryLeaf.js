@@ -1,4 +1,4 @@
-import { Component, createElement } from 'react';
+import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { arrayOf, func, number, objectOf, shape, string } from 'prop-types';
 
